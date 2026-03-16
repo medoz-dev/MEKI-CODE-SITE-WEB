@@ -30,7 +30,7 @@ export default function Contact() {
             className="relative h-[300px] w-full max-w-[400px] overflow-hidden rounded-3xl border border-white/10 bg-white/5 lg:h-[400px]"
           >
             <img 
-              src="https://hckzpjsbgchfhwomqkal.supabase.co/storage/v1/object/sign/anim/ee776dbb-4892-49c9-a414-3c325686f180-ezgif.com-video-to-webp-converter.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV82MDg0NjBiMi1mYjc0LTQwMWItOWZhYy0yMjU5MDhjZGJhNjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhbmltL2VlNzc2ZGJiLTQ4OTItNDljOS1hNDE0LTNjMzI1Njg2ZjE4MC1lemdpZi5jb20tdmlkZW8tdG8td2VicC1jb252ZXJ0ZXIud2VicCIsImlhdCI6MTc3MzYwMDI4NiwiZXhwIjozNTM5NjE2Mjg2fQ.OXGEgncFRXgtrBTiyUMpt-UDpFAvEqu1srolMxeMRts" 
+              src="https://hckzpjsbgchfhwomqkal.supabase.co/storage/v1/object/sign/anim/Whisk_a36c8c15d2032a4bf6e4c46e572d894adr%20(1).jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV82MDg0NjBiMi1mYjc0LTQwMWItOWZhYy0yMjU5MDhjZGJhNjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhbmltL1doaXNrX2EzNmM4YzE1ZDIwMzJhNGJmNmU0YzQ2ZTU3MmQ4OTRhZHIgKDEpLmpwZyIsImlhdCI6MTc3MzYxMTkyMywiZXhwIjoxMzQxMDM5NTkyM30.pch9pn2JKgmD19XuAbO7N_PuhmVfO_Yfy2EaD6u2uwg" 
               alt="Illustration de contact" 
               className="h-full w-full object-cover opacity-80 transition-transform duration-700 hover:scale-110"
               referrerPolicy="no-referrer"
