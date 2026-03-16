@@ -27,7 +27,7 @@ const SERVICES = [
     title: "Optimisation Web",
     description: "Audit et optimisation des performances pour garantir des scores Core Web Vitals parfaits.",
     icon: Zap,
-    image: "https://img.freepik.com/free-vector/speed-test-concept-illustration_114360-3155.jpg",
+    image: "https://cdni.iconscout.com/illustration/premium/thumb/man-developing-frontend-website-illustration-download-in-svg-png-gif-file-formats--developer-web-development-pack-design-illustrations-4759500.png",
     color: "from-orange-500/20 to-transparent"
   }
 ];
@@ -71,7 +71,7 @@ export default function Services() {
               <motion.div 
                 whileHover={{ rotate: [0, -10, 10, 0] }}
                 transition={{ duration: 0.5 }}
-                className="mb-8 flex h-20 w-20 items-center justify-center overflow-hidden rounded-2xl bg-white/5 transition-all duration-500 group-hover:scale-110 group-hover:bg-white/10 group-hover:shadow-inner"
+                className="mb-8 flex h-32 w-full items-center justify-center overflow-hidden rounded-2xl bg-white/5 transition-all duration-500 group-hover:scale-105 group-hover:bg-white/10 group-hover:shadow-inner"
               >
                 {service.image ? (
                   <img 

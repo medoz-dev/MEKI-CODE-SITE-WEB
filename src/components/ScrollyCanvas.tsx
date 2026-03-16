@@ -120,12 +120,12 @@ export default function ScrollyCanvas() {
       <div className="sticky top-0 h-screen w-full overflow-hidden bg-[#121212]">
         {/* Background Animation Layer */}
         <div 
-          className="absolute inset-0 z-0 opacity-20 grayscale transition-opacity duration-1000"
+          className="absolute inset-0 z-0 opacity-40 grayscale transition-opacity duration-1000"
           style={{ 
             backgroundImage: `url(${ANIMATION_URL})`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
-            filter: 'brightness(0.5) contrast(1.1)'
+            filter: 'brightness(0.8) contrast(1.2)'
           }}
         />
 
